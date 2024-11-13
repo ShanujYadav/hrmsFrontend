@@ -280,7 +280,7 @@ const SalerySlip = () => {
                                             <td className="p-2 text-sm text-gray-800">Others</td>
                                             <td className="p-2 text-sm text-end text-gray-800 border-r border-black">{data.otherEarnings}</td>
                                             <td className="p-2 text-sm text-gray-800">Others</td>
-                                            <td className="p-2 text-sm text-end text-gray-800">{data.otherEarnings}</td>
+                                            <td className="p-2 text-sm text-end text-gray-800">{data.otherDeductions}</td>
                                         </tr>
                                         <tr className="border-t-2 border-b-2 border-black">
                                             <td className="p-2 text-sm text-gray-800">Gross Earnings</td>

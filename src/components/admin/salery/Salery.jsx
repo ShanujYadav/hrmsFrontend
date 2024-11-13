@@ -193,8 +193,6 @@ const Salery = () => {
                     </tbody>
                 </table>
             </div>
-
-
             <Modal
                 isOpen={openModal}
                 onRequestClose={onCloseModal}
