@@ -85,6 +85,7 @@ const SalerySlip = () => {
                 "Content-Type": "application/json",
                 "userAgent": "altaNeo"
             }
+            
             let body = JSON.stringify({
                 employeeId: employeeId,
                 year: selectedYear,
